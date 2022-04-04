@@ -1,8 +1,13 @@
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a84a97901cfbfbd13e5bbfde5c0691f00a02a1df0233c56b13668a4f06eb8cf7/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f31313437312f312a7732583745784c47427a622d697a6e525731724156772e6a706567"><img src="https://camo.githubusercontent.com/a84a97901cfbfbd13e5bbfde5c0691f00a02a1df0233c56b13668a4f06eb8cf7/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f31313437312f312a7732583745784c47427a622d697a6e525731724156772e6a706567" alt="MasterHead" data-canonical-src="https://miro.medium.com/max/11471/1*w2X7ExLGBzb-iznRW1rAVw.jpeg" style="max-width: 100%;"></a></p>
+
 <h1>Hi 👋, I'm Anurag Chauhan</h1>
 
 - 🔭 I’m currently working on <b>Online Voting System</b>
+
 - 🌱 I’m currently learning <b>React.js</b>
+
 - 👯 I’m looking to collaborate on <b>Python Projects</b>
+
 - 🤔 I’m looking for help with <b>Python</b>
 
 <h3>How to reach me:</h3>
