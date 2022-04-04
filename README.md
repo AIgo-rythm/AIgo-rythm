@@ -1,9 +1,9 @@
-<center><h1>Hi 👋, I'm Anurag Chauhan</h1></center>
+<h1>Hi 👋, I'm Anurag Chauhan</h1>
 
-- 🔭 I’m currently working on Online Voting System
-- 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on Python Projects
-- 🤔 I’m looking for help with Python
+- 🔭 I’m currently working on <b>Online Voting System</b>
+- 🌱 I’m currently learning <b>React.js</b>
+- 👯 I’m looking to collaborate on <b>Python Projects</b>
+- 🤔 I’m looking for help with <b>Python</b>
 
 <h3>How to reach me:</h3>
 <p align="left" dir="auto">
